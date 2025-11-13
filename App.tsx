@@ -6,7 +6,7 @@ import { WishModal } from './components/WishModal';
 
 const experiences: Experience[] = [
   {
-    role: "Veteran Free Fire 'Bit Player'",
+    role: "Veteran Free Fire 'Bot Player'",
     context: "Garena's Digital Battlefield",
     duration: "8 Years & Counting",
     description: "Dedicated over a decade to tactical 'hide-and-seek' operations. Contributed significantly to the victory screens of opponents, demonstrating remarkable persistence and a deep commitment to the respawn cycle.",
