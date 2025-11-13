@@ -90,7 +90,7 @@ const App: React.FC = () => {
           <p className="text-slate-400 leading-relaxed">
             Highly motivated individual seeking to maximize fun, laughter, and cake consumption. Proven ability to age gracefully (mostly) while maintaining a questionable sense of humor. Looking to leverage another year of existence into new achievements in napping and expert-level snacking.
           </p>
-        </section>
+        </Section>
         
         {/* Experience */}
         <Section title="Professional Experience">
@@ -113,7 +113,7 @@ const App: React.FC = () => {
               </div>
             ))}
           </div>
-        </section>
+        </Section>
 
         {/* Education */}
         <Section title="Education">
@@ -122,7 +122,7 @@ const App: React.FC = () => {
                 <p className="text-cyan-400">Major: Advanced Flirting Techniques</p>
                 <p className="text-slate-400 text-sm">Status: Tenured Professor</p>
             </div>
-        </section>
+        </Section>
 
         {/* Awards */}
         <Section title="Awards & Accolades">
@@ -131,7 +131,7 @@ const App: React.FC = () => {
               <li key={index}>{award}</li>
             ))}
           </ul>
-        </section>
+        </Section>
 
         {/* Fun Facts */}
         <Section title="Fun Facts & Trivia">
@@ -140,7 +140,7 @@ const App: React.FC = () => {
               <li key={index}>{fact}</li>
             ))}
           </ul>
-        </section>
+        </Section>
 
         {/* Gallery */}
         <Section title="Official Portrait">
@@ -154,7 +154,7 @@ const App: React.FC = () => {
                 <p className="text-sm text-slate-400">Circa: Another Glorious Year</p>
               </div>
             </div>
-        </section>
+        </Section>
 
         {/* Image Collection */}
         <Section title="Image Collection">
@@ -165,7 +165,7 @@ const App: React.FC = () => {
                     </div>
                 ))}
             </div>
-        </section>
+        </Section>
 
         {/* Footer */}
         <footer className="text-center mt-12 py-8 border-t border-slate-700">
